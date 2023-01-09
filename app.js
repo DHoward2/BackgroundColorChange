@@ -6,6 +6,6 @@ h1.addEventListener('click', function() {
     body.style.backgroundColor = 'red';
 })
 
-body.addEventListener('click', function(){
-    body.style.backgroundColor = 'white'
-})
+// body.addEventListener('click', function(){
+//     body.style.backgroundColor = 'white'
+// })
